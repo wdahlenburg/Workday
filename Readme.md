@@ -49,3 +49,6 @@ Mon Sep 11 20:29:32 2017 -0400 As soon as I found out about this issue I contact
 
 Thu Sep 14 14:35:19 2017 -0400 I contacted them two days later on [Twitter](https://twitter.com/wDahlenb/status/908308301015863301) and did not hear back. I called Workday around 2:30 PM that day and no one was able to take my call. 
 
+Fri Sep 22 11:56:00 2017 -0400 I contacted a recruiter for Capital One and asked them to help me get in contact with Workday. He forwarded my message on to one of their internal contacts.
+
+Mon Oct 02 17:15:00 2017 -0400 PoC and writeup released to general public due to inaction.
